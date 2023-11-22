@@ -1,4 +1,4 @@
-# Projet CS en équipe
+# Projet CV en équipe
 
 REPOSITORY (sauvé les modifications, on est dans l'avion !)
 
